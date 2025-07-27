@@ -1,8 +1,9 @@
 🦇 Goth Girl Dataset Builder
 ---
 This Python script collects and formats Reddit posts and comments into a dataset suitable for lightweight LLM training or fine-tuning, especially for models with a dark, poetic, or emotional tone.
-
+---
 📌 What It Does
+---
 Scrapes hot posts and top comments from a list of subreddits related to goth, dark romance, emo, and literature.
 
 Builds a conversational dataset with prompt–response pairs using post titles, self-texts, and short comments.
